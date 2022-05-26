@@ -1,0 +1,1 @@
+# SoC-2022-CNN-Based-Stock-Market-Prediction
